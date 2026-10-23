@@ -199,6 +199,18 @@ tbody tr:nth-child(even){
     font-size: 30px;
     padding: 100px 0;
 }
+.skill{
+    background: linear-gradient(135deg, #308fb4, #12b450);
+    padding: 20px 15px;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px #7c707b;
+    width: 100%;
+}
+.skill li{
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 25px;
+}
 footer {
     background-color: #4b3040;
     color: white;
