@@ -7,7 +7,10 @@
     scroll-behavior: smooth;
 }
 
-body {
+html, body {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
     background-color: #6bd3c5;
     color: #300b53;
 }
